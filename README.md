@@ -10,7 +10,7 @@ I'm a seasoned professional in higher education with a passion for instructional
 - **[Cybersecurity Projects](https://github.com/neriais/CyberSecurity):** Exploring various aspects of cybersecurity, from basic principles to advanced topics.
 
 ## 🌱 Learning and Interests
-- Deepening my knowledge in **cybersecurity**.
+- Deepening my knowledge in **tech and learning design**.
 - Exploring **machine learning** and its applications in education.
 - Advocating for **ethical AI** and responsible tech development.
 
