@@ -2,7 +2,7 @@
 
 # Hi there, I'm Neria 👋
 
-I'm a seasoned professional in higher education with a passion for instructional design, AI, and cybersecurity. I hold two master's degrees and a doctorate, and I'm constantly learning and evolving in the tech space.
+I'm a seasoned professional in higher education with a passion for instructional design, AI, and cybersecurity. I hold a doctorate, and I'm constantly learning and evolving in the tech space.
 
 ## 🔭 Current Projects
 - **[Responsible AI Course](https://github.com/neriais/responsible-ai-course):** Developing a comprehensive course on ethical AI practices using Articulate 360 and Canvas LMS.
